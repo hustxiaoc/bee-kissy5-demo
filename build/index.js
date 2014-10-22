@@ -1,0 +1,1 @@
+define("bee-kissy5-demo/index",["node"],function(i,n,t){var e,r,a,o=i("node");e=function(i){i={};var n=o.all;return i={init:function(){n("header").html("this is header")}}}(),r=function(i){i={};var n=o.all;return i={init:function(){n("article").html("this is article")}}}(),a=function(i){i={};var n=e;n.init();var t=r;return t.init(),i}(),t.exports=a});
